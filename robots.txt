@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://veyra-ai.com/sitemap.xml

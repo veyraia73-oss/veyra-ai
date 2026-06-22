@@ -1,0 +1,19 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Veyra AI principal logo</title>
+  <desc id="desc">Premium square Veyra AI monogram.</desc>
+  <defs>
+    <radialGradient id="r" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(256 186) rotate(90) scale(270)">
+      <stop stop-color="#6DE6FF" stop-opacity="0.26"/>
+      <stop offset="1" stop-color="#070A12" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="g" x1="120" y1="82" x2="405" y2="425" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6DE6FF"/>
+      <stop offset="0.52" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#7CFFCB"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="128" fill="#070A12"/>
+  <rect x="40" y="40" width="432" height="432" rx="108" fill="url(#r)" stroke="url(#g)" stroke-opacity="0.5"/>
+  <path d="M133 142C149.8 127.1 175.6 132.4 185.7 152.5L256 301.2L326.3 152.5C336.4 132.4 362.2 127.1 379 142L400 160.4L296.8 367.2C281 398.8 231 398.8 215.2 367.2L112 160.4L133 142Z" fill="url(#g)"/>
+  <circle cx="384" cy="125" r="25" fill="#7CFFCB"/>
+</svg>

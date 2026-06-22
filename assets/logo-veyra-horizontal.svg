@@ -1,0 +1,16 @@
+<svg width="420" height="104" viewBox="0 0 420 104" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Veyra AI logo</title>
+  <desc id="desc">Horizontal Veyra AI wordmark with geometric icon.</desc>
+  <defs>
+    <linearGradient id="g" x1="14" y1="12" x2="86" y2="92" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6DE6FF"/>
+      <stop offset="0.52" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#7CFFCB"/>
+    </linearGradient>
+  </defs>
+  <rect x="10" y="12" width="80" height="80" rx="24" fill="#070A12" stroke="url(#g)" stroke-opacity="0.64"/>
+  <path d="M27 30C30.2 27.2 35.1 28.2 37 32L50 59.5L63 32C64.9 28.2 69.8 27.2 73 30L77 33.5L57.4 72.8C54.4 78.8 45.6 78.8 42.6 72.8L23 33.5L27 30Z" fill="url(#g)"/>
+  <circle cx="73" cy="28" r="5" fill="#7CFFCB"/>
+  <text x="112" y="62" fill="#F7F9FC" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="800" letter-spacing="-2.2">Veyra</text>
+  <text x="250" y="62" fill="#6DE6FF" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="-2.2">AI</text>
+</svg>

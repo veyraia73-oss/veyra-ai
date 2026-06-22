@@ -1,0 +1,27 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="r1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(270 110) rotate(63) scale(510)">
+      <stop stop-color="#6DE6FF" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#070A12" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="r2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(980 70) rotate(123) scale(460)">
+      <stop stop-color="#8B5CF6" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#070A12" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="g" x1="80" y1="70" x2="240" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6DE6FF"/>
+      <stop offset="0.52" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#7CFFCB"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#070A12"/>
+  <rect width="1200" height="630" fill="url(#r1)"/>
+  <rect width="1200" height="630" fill="url(#r2)"/>
+  <rect x="72" y="70" width="96" height="96" rx="28" fill="#070A12" stroke="url(#g)" stroke-opacity="0.8"/>
+  <path d="M94 97C98 93.5 104.2 94.8 106.6 99.6L120 128.5L133.4 99.6C135.8 94.8 142 93.5 146 97L152 102.2L130.5 145.4C126.5 153.5 113.5 153.5 109.5 145.4L88 102.2L94 97Z" fill="url(#g)"/>
+  <circle cx="150" cy="94" r="6" fill="#7CFFCB"/>
+  <text x="190" y="132" fill="#F7F9FC" font-family="Inter, Arial, sans-serif" font-size="54" font-weight="800" letter-spacing="-2.5">Veyra AI</text>
+  <text x="74" y="315" fill="#F7F9FC" font-family="Inter, Arial, sans-serif" font-size="78" font-weight="850" letter-spacing="-5">Agentes virtuales IA</text>
+  <text x="74" y="405" fill="#F7F9FC" font-family="Inter, Arial, sans-serif" font-size="78" font-weight="850" letter-spacing="-5">para negocios que crecen.</text>
+  <text x="78" y="500" fill="#A8B2C7" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="500">WhatsApp · Voz · Agenda · CRM · Automatización · Analytics</text>
+</svg>
