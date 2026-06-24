@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Veyra AI V4 — Chat razonador contextual</title>
+  <title>Veyra AI V6 — Nexus MetaAgente Premium</title>
   <meta name="description" content="Veyra AI crea agentes IA especializados por sector: atienden, razonan dentro del negocio, califican leads, agendan citas y avisan al equipo. No son chatbots genéricos." />
   <meta name="theme-color" content="#070A12" />
   <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
@@ -112,12 +112,13 @@
   <section class="section light" id="demo">
     <div class="container">
       <div class="eyebrow">Demo interactiva</div>
-      <h2>Elige un agente y pruébalo con una conversación real.</h2>
-      <p class="lead">Esta demo V4 está diseñada para mostrar la idea clave: el agente lee el mensaje completo, conserva contexto de conversación, responde de forma distinta según lo que el usuario escribe y se niega con elegancia cuando le piden algo fuera de su función.</p>
+      <h2>Elige un agente o deja que Nexus te recomiende el más adecuado.</h2>
+      <p class="lead">Esta demo V6 Nexus está diseñada para mostrar la idea clave: el agente lee el mensaje completo, conserva contexto de conversación, responde de forma distinta según lo que el usuario escribe y se niega con elegancia cuando le piden algo fuera de su función.</p>
       <div class="simulator">
         <aside class="sim-side">
-          <label for="sector">1. Elige agente</label>
+          <label for="sector">1. Elige agente o modo Nexus</label>
           <select id="sector" data-sector>
+            <option value="auto">Veyra AI Nexus — recomiéndame agente</option>
             <option value="inmobiliaria">IA para inmobiliaria</option>
             <option value="dental">IA para clínica dental</option>
             <option value="estetica">IA para estética</option>
@@ -140,7 +141,7 @@
 
         <section class="chat-simulator" aria-label="Simulador de chat Veyra AI">
           <div class="chat-header">
-            <div><strong data-agent-name>InmoAgent</strong><br><span>Demo V4 con memoria, contexto y límites</span></div>
+            <div><strong data-agent-name>Veyra AI Nexus</strong><br><span>Demo V6 con memoria, recomendación y CTA dinámico</span></div>
             <span>● online</span>
           </div>
           <div class="chat-log" data-chat-log></div>
